@@ -1,9 +1,9 @@
-package com.hp.moviesapp_accubits.data.model
-
+package com.hp.moviesapp_accubits.data.db
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 import com.google.gson.annotations.SerializedName
+
 
 @Entity
 data class Result(
